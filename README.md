@@ -1,2 +1,2 @@
 # Redesigned-computer-engineering
-How to work a computer in easy ways 
+How to work a computer in easy ways without failure 
